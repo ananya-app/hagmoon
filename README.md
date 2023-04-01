@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hagmoon
+- 👋 Hi, I’m @ananya-app
 - 👀 I’m interested in language systems, language processing and machine learning :)
 - 🌱 I'm currently a grad student studying computational linguistics!
 
